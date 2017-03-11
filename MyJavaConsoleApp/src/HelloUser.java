@@ -1,9 +1,9 @@
-package me.demo;
 
 import java.util.Scanner;
 
 /**
- * Program to print to system console.
+ * Program to read a name from system and console and print greeting to system
+ * console.
  * 
  * @author Chetan Gorkal
  *

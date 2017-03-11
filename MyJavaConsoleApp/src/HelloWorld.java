@@ -1,7 +1,7 @@
-package me.demo;
+
 
 /**
- * Program to print to system console.
+ * Program to print a string to system console.
  * 
  * @author Chetan Gorkal
  *
